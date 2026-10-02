@@ -1,0 +1,4 @@
+interface:
+  display_name: "自我洞察"
+  short_description: "依据本人消息表达和具体对话，分析行为模式、现实处境与长期方向，并制定可验证的行动规划"
+  default_prompt: "使用 $self-insight 分析我的消息记录，帮助我理解自己并规划下一阶段。"
